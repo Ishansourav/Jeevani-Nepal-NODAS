@@ -6,7 +6,7 @@
 
 🔗 **Live Demo:** Deploy via `npm run deploy`  
 🌐 **Local Development:** [http://localhost:3000](http://localhost:3000)
-
+[![Live Project](https://img.shields.io/badge/🌐_Live_Project-Jeevani_Nepal-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tinyurl.com/JeevaniNepalNODAS)
 ---
 
 ## 👥 Team & Contributors
