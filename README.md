@@ -147,6 +147,15 @@ npm run deploy
 
 ---
 
+## 👥 Contributors
+
+| Avatar | Name | Role | GitHub |
+|--------|------|------|--------|
+| ![Ishansourav](https://github.com/Ishansourav.png?size=40) | Ishansourav | Project Lead & Fullstack Developer | [GitHub](https://github.com/Ishansourav) |
+| ![Shaloni Sharma](https://github.com/ShaloniSharma00.png?size=40) | Shaloni Sharma | Frontend/UI Specialist | [GitHub](https://github.com/ShaloniSharma00) |
+
+---
+
 # 🙏 Acknowledgements
 - TailwindCSS & GSAP community
 - Cloudflare Pages hosting
